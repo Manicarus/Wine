@@ -7,4 +7,6 @@
 
 프로토타이핑은 다음카카오에서 제공하는 ovenapp.io를 사용합니다.
 
+회원가입한 후에 편집할 수 있으니 참고하세요
+
 [ovenapp 링크](https://goo.gl/oihAkf)
